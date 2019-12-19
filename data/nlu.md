@@ -5,36 +5,64 @@
 - kada je otvorena referada
 
 ## intent:CONSULTATION_HOURS
-- kada su konzultacije kod [cesara](professor)
-- kada su konzultacije kod profesora [cesara](professor)
-- kad su konzultacije kod profesora [cesara](professor)
-- kada su konzultacije kod [krambergera](professor)
-- kada su konzultacije kod profesora [krambergera](professor)
-- kad su konzultacije kod profesora [krambergera](professor)
-- kada su konzultacije kod [slamića](professor)
-- kada su konzultacije kod profesora [slamića](professor)
-- kad su konzultacije kod profesora [slamića](professor)
-- kad [slamić](professor) ima konzultacije
+- kada su konzultacije kod [cesara](professor_last_name)
+- kada su konzultacije kod profesora [cesara](professor_last_name)
+- kad su konzultacije kod profesora [cesara](professor_last_name)
+- kada su konzultacije kod [krambergera](professor_last_name)
+- kada su konzultacije kod profesora [krambergera](professor_last_name)
+- kad su konzultacije kod profesora [krambergera](professor_last_name)
+- kada su konzultacije kod [slamića](professor_last_name)
+- kada su konzultacije kod profesora [slamića](professor_last_name)
+- kad su konzultacije kod profesora [slamića](professor_last_name)
+- kad [slamić](professor_last_name) ima konzultacije
+- kada su konzultacije kod [ivana](professor_last_name) [cesara](professor_last_name)
+- kada su konzultacije kod profesora [ivana](professor_last_name) [cesara](professor_last_name)
+- kad su konzultacije kod profesora [ivana](professor_last_name) [cesara](professor_last_name)
+- kada su konzultacije kod [tina](professor_first_name) [krambergera](professor_last_name)
+- kada su konzultacije kod profesora [tina](professor_first_name) [krambergera](professor_last_name)
+- kad su konzultacije kod profesora [tina](professor_first_name) [krambergera](professor_last_name)
+- kada su konzultacije kod [miroslava](professor_first_name) [slamića](professor_last_name)
+- kada su konzultacije kod profesora [miroslava](professor_first_name) [slamića](professor_last_name)
+- kad su konzultacije kod profesora [miroslava](professor_first_name) [slamića](professor_last_name)
+- kad [miroslav](professor_first_name) [slamić](professor_last_name) ima konzultacije
 
 ## intent:CONSULTATION_LOCATION
-- gdje su konzultacije kod [cesara](professor)
-- gdje su konzultacije kod profesora [cesara](professor)
-- di su konzultacije kod profesora [cesara](professor)
-- u kojoj prostoriji su konzultacije kod [cesara](professor)
-- u kojoj prostoriji su konzultacije kod profesora [cesara](professor)
-- gdje [cesar](professor) drži konzultacije
-- gdje su konzultacije kod [krambergera](professor)
-- gdje su konzultacije kod profesora [krambergera](professor)
-- di su konzultacije kod profesora [krambergera](professor)
-- u kojoj prostoriji su konzultacije kod [krambergera](professor)
-- u kojoj prostoriji su konzultacije kod profesora [krambergera](professor)
-- gdje [kramberger](professor) drži konzultacije
-- gdje su konzultacije kod [slamića](professor)
-- gdje su konzultacije kod profesora [slamića](professor)
-- di su konzultacije kod profesora [slamića](professor)
-- u kojoj prostoriji su konzultacije kod [slamića](professor)
-- u kojoj prostoriji su konzultacije kod profesora [slamića](professor)
-- gdje [slamić](professor) drži konzultacije
+- gdje su konzultacije kod [cesara](professor_last_name)
+- gdje su konzultacije kod profesora [cesara](professor_last_name)
+- di su konzultacije kod profesora [cesara](professor_last_name)
+- u kojoj prostoriji su konzultacije kod [cesara](professor_last_name)
+- u kojoj prostoriji su konzultacije kod profesora [cesara](professor_last_name)
+- gdje [cesar](professor_last_name) drži konzultacije
+- gdje su konzultacije kod [krambergera](professor_last_name)
+- gdje su konzultacije kod profesora [krambergera](professor_last_name)
+- di su konzultacije kod profesora [krambergera](professor_last_name)
+- u kojoj prostoriji su konzultacije kod [krambergera](professor_last_name)
+- u kojoj prostoriji su konzultacije kod profesora [krambergera](professor_last_name)
+- gdje [kramberger](professor_last_name) drži konzultacije
+- gdje su konzultacije kod [slamića](professor_last_name)
+- gdje su konzultacije kod profesora [slamića](professor_last_name)
+- di su konzultacije kod profesora [slamića](professor_last_name)
+- u kojoj prostoriji su konzultacije kod [slamića](professor_last_name)
+- u kojoj prostoriji su konzultacije kod profesora [slamića](professor_last_name)
+- gdje [slamić](professor_last_name) drži konzultacije
+- gdje su konzultacije kod [ivana](professor_last_name) [cesara](professor_last_name)
+- gdje su konzultacije kod profesora [ivana](professor_last_name) [cesara](professor_last_name)
+- di su konzultacije kod profesora [ivana](professor_last_name) [cesara](professor_last_name)
+- u kojoj prostoriji su konzultacije kod [ivana](professor_last_name) [cesara](professor_last_name)
+- u kojoj prostoriji su konzultacije kod profesora [ivana](professor_last_name) [cesara](professor_last_name)
+- gdje [ivan](professor_last_name) [cesar](professor_last_name) drži konzultacije
+- gdje su konzultacije kod [tina](professor_first_name) [krambergera](professor_last_name)
+- gdje su konzultacije kod profesora [tina](professor_first_name) [krambergera](professor_last_name)
+- di su konzultacije kod profesora [tina](professor_first_name) [krambergera](professor_last_name)
+- u kojoj prostoriji su konzultacije kod [tina](professor_first_name) [krambergera](professor_last_name)
+- u kojoj prostoriji su konzultacije kod profesora [tina](professor_first_name) [krambergera](professor_last_name)
+- gdje [tin](professor_first_name) [kramberger](professor_last_name) drži konzultacije
+- gdje su konzultacije kod [miroslava](professor_first_name) [slamića](professor_last_name)
+- gdje su konzultacije kod profesora [miroslava](professor_first_name) [slamića](professor_last_name)
+- di su konzultacije kod profesora [miroslava](professor_first_name) [slamića](professor_last_name)
+- u kojoj prostoriji su konzultacije kod [miroslava](professor_first_name) [slamića](professor_last_name)
+- u kojoj prostoriji su konzultacije kod profesora [miroslava](professor_first_name) [slamića](professor_last_name)
+- gdje [miroslav](professor_first_name) [slamić](professor_last_name) drži konzultacije
 
 ## intent:EXAM_TIME
 - kada je ispit iz [jave](subject)
@@ -137,8 +165,11 @@
 - kako položiti [javu](subject)
 
 
-## lookup:professor
+## lookup:professor_last_name
 data/proffesor_last_names.txt
+
+## lookup:professor_first_name
+data/proffesor_first_names.txt
 
 
 ## lookup:subject
