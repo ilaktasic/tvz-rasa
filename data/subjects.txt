@@ -1,0 +1,38 @@
+Administriranje UNIX sustava
+Algoritmi i strukture podataka
+Administracija računalnih mreža
+Arhitektura računala
+Baze podataka
+Engleski jezik za računarstvo
+Fizika
+Kineziološka kultura
+Tjelesni
+Matematika I
+Matematika II
+Metodologija poslovnih procesa
+Metodologija stručnog i istraživačkog rada
+Mrežne usluge
+Napredne baze podataka
+Napredne teme računalnih mreža
+Napredno JavaScript programiranje
+Napredno programiranje u jeziku Python
+Nekonvencionalni računalni postupci
+Objektno orijentirano programiranje web stranica
+Operacijski sustavi
+Osnove elektrotehnike i elektronike
+Otvorene platforme za razvoj ugrađenih sustava
+Poslovni engleski jezik za računarstvo
+Primjena računala
+Programiranje u jeziku Java
+Programiranje
+Računala za nadzor i upravljanje tehnickim procesima
+Računalne mreže
+Razvoj
+Razvoj računalnih igara
+Razvoj
+Stručna praksa
+Uvod u UNIX sustave
+Uvod u web tehnologije
+Vjerojatnost i statistika
+Web
+Završni rad
