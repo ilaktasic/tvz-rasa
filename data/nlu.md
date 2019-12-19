@@ -166,10 +166,10 @@
 
 
 ## lookup:professor_last_name
-data/proffesor_last_names.txt
+data/profesor_last_names.txt
 
 ## lookup:professor_first_name
-data/proffesor_first_names.txt
+data/profesor_first_names.txt
 
 
 ## lookup:subject
