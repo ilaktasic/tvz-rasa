@@ -89,11 +89,11 @@
 - u kojoj prostoriji je predavanje iz [javascripta](subject)
 - u kojoj predavaoni je predavanje iz [javascripta](subject)
 - na kojoj lokaciji je predavanje iz [javascripta](subject)
-- gdje je predavanje iz [javascripta](subject)
-- di je predavanje iz [javascripta](subject)
-- u kojoj prostoriji je predavanje iz [javascripta](subject)
-- u kojoj predavaoni je predavanje iz [javascripta](subject)
-- na kojoj lokaciji je predavanje iz [javascripta](subject)
+- gdje je predavanje iz [naprednih baza podataka](subject)
+- di je predavanje iz [naprednih baza podataka](subject)
+- u kojoj prostoriji je predavanje iz [naprednih baza podataka](subject)
+- u kojoj predavaoni je predavanje iz [naprednih baza podataka](subject)
+- na kojoj lokaciji je predavanje iz [naprednih baza podataka](subject)
 
 ## intent:LOCATION_LAB
 - gdje su vježbe iz [jave](subject)
@@ -106,12 +106,26 @@
 - u kojoj prostoriji je labos iz [jave](subject)
 - u kojoj predavaoni je labos iz [jave](subject)
 - na kojoj lokaciji je labos iz [jave](subject)
+- gdje su vježbe iz [osnova elektrotehnike](subject)
+- di su vježbe iz [osnova elektrotehnike](subject)
+- u kojoj prostoriji su vježbe iz [osnova elektrotehnike](subject)
+- u kojoj predavaoni su vježbe iz [osnova elektrotehnike](subject)
+- na kojoj lokaciji su vježbe iz [osnova elektrotehnike](subject)
+- gdje je labos iz [osnova elektrotehnike](subject)
+- di je labos iz [osnova elektrotehnike](subject)
+- u kojoj prostoriji je labos iz [osnova elektrotehnike](subject)
+- u kojoj predavaoni je labos iz [osnova elektrotehnike](subject)
+- na kojoj lokaciji je labos iz [osnova elektrotehnike](subject)
 
 ## intent:TIME_LECTURE
 - kada je predavanje iz [jave](subject)
 - kada je slijedeće predavanje iz [jave](subject)
 - u koliko sati je predavanje iz [jave](subject)
 - koji dan je predavanje iz [jave](subject)
+- kada je predavanje iz [osnova elektrotehnike](subject)
+- kada je slijedeće predavanje iz [osnova elektrotehnike](subject)
+- u koliko sati je predavanje iz [osnova elektrotehnike](subject)
+- koji dan je predavanje iz [osnova elektrotehnike](subject)
 
 ## intent:TIME_LAB
 - kada je vježbe iz [jave](subject)
@@ -122,6 +136,14 @@
 - kada je slijedeći labos iz [jave](subject)
 - u koliko sati je labos iz [jave](subject)
 - koji dan je labos iz [jave](subject)
+- kada je vježbe iz [programiranja](subject)
+- kada je slijedeće vježbe iz [programiranja](subject)
+- u koliko sati je vježbe iz [programiranja](subject)
+- koji dan je vježbe iz [programiranja](subject)
+- kada je labos iz [programiranja](subject)
+- kada je slijedeći labos iz [programiranja](subject)
+- u koliko sati je labos iz [programiranja](subject)
+- koji dan je labos iz [programiranja](subject)
 
 ## intent:SIGN_UP_TIME
 - kada su upisi
@@ -135,9 +157,6 @@
 - kak izgleda uplatnica  za
 - kako platiti školarinu
 - kako platiti upis
-
-## intent:TERMS_SUBJECT
-- koji su uvijeti za polaganje [jave](subject)
 
 ## intent:LATEST_NEWS
 - pokaži mi vijesti 
@@ -163,14 +182,18 @@
 - koji su uvijeti za polaganje [jave](subject)
 - što trebam za položiti [javu](subject)
 - kako položiti [javu](subject)
-
+- koji su uvijeti za polaganje [mreža](subject)
+- što trebam za položiti [mreže](subject)
+- kako položiti [mreže](subject)
+- koji su uvijeti za polaganje [objektno orjentiranog programiranja](subject)
+- što trebam za položiti [objektno orjentiranog programiranja](subject)
+- kako položiti [objektno orjentiranog programiranja](subject)
 
 ## lookup:professor_last_name
 data/profesor_last_names.txt
 
 ## lookup:professor_first_name
 data/profesor_first_names.txt
-
 
 ## lookup:subject
 data/subjects.txt
