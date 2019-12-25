@@ -2,11 +2,16 @@ version: '3.0'
 services:
   rasa:
     image: rasa/rasa:latest-full
+    environment:
+      - PORT=5005
     ports:
-      - 80:5005
+      - ${PORT}:5005
     volumes:
-      - ${pwd}:/app
+      - rasa/app
     command:
       - run
       - --enable-api
-
+volumes:
+  rasa-docker:
+    external:
+      name: rasa

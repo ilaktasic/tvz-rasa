@@ -15,9 +15,9 @@
 - kada su konzultacije kod profesora [slamića](professor_last_name)
 - kad su konzultacije kod profesora [slamića](professor_last_name)
 - kad [slamić](professor_last_name) ima konzultacije
-- kada su konzultacije kod [ivana](professor_last_name) [cesara](professor_last_name)
-- kada su konzultacije kod profesora [ivana](professor_last_name) [cesara](professor_last_name)
-- kad su konzultacije kod profesora [ivana](professor_last_name) [cesara](professor_last_name)
+- kada su konzultacije kod [ivana](professor_first_name) [cesara](professor_last_name)
+- kada su konzultacije kod profesora [ivana](professor_first_name) [cesara](professor_last_name)
+- kad su konzultacije kod profesora [ivana](professor_first_name) [cesara](professor_last_name)
 - kada su konzultacije kod [tina](professor_first_name) [krambergera](professor_last_name)
 - kada su konzultacije kod profesora [tina](professor_first_name) [krambergera](professor_last_name)
 - kad su konzultacije kod profesora [tina](professor_first_name) [krambergera](professor_last_name)
@@ -45,10 +45,10 @@
 - u kojoj prostoriji su konzultacije kod [slamića](professor_last_name)
 - u kojoj prostoriji su konzultacije kod profesora [slamića](professor_last_name)
 - gdje [slamić](professor_last_name) drži konzultacije
-- gdje su konzultacije kod [ivana](professor_last_name) [cesara](professor_last_name)
-- gdje su konzultacije kod profesora [ivana](professor_last_name) [cesara](professor_last_name)
-- di su konzultacije kod profesora [ivana](professor_last_name) [cesara](professor_last_name)
-- u kojoj prostoriji su konzultacije kod [ivana](professor_last_name) [cesara](professor_last_name)
+- gdje su konzultacije kod [ivana](professor_first_name) [cesara](professor_last_name)
+- gdje su konzultacije kod profesora [ivana](professor_first_name) [cesara](professor_last_name)
+- di su konzultacije kod profesora [ivana](professor_first_name) [cesara](professor_last_name)
+- u kojoj prostoriji su konzultacije kod [ivana](professor_first_name) [cesara](professor_last_name)
 - u kojoj prostoriji su konzultacije kod profesora [ivana](professor_last_name) [cesara](professor_last_name)
 - gdje [ivan](professor_last_name) [cesar](professor_last_name) drži konzultacije
 - gdje su konzultacije kod [tina](professor_first_name) [krambergera](professor_last_name)
