@@ -49,8 +49,8 @@
 - gdje su konzultacije kod profesora [ivana](professor_first_name) [cesara](professor_last_name)
 - di su konzultacije kod profesora [ivana](professor_first_name) [cesara](professor_last_name)
 - u kojoj prostoriji su konzultacije kod [ivana](professor_first_name) [cesara](professor_last_name)
-- u kojoj prostoriji su konzultacije kod profesora [ivana](professor_last_name) [cesara](professor_last_name)
-- gdje [ivan](professor_last_name) [cesar](professor_last_name) drži konzultacije
+- u kojoj prostoriji su konzultacije kod profesora [ivana](professor_first_name) [cesara](professor_last_name)
+- gdje [ivan](professor_first_name) [cesar](professor_last_name) drži konzultacije
 - gdje su konzultacije kod [tina](professor_first_name) [krambergera](professor_last_name)
 - gdje su konzultacije kod profesora [tina](professor_first_name) [krambergera](professor_last_name)
 - di su konzultacije kod profesora [tina](professor_first_name) [krambergera](professor_last_name)
