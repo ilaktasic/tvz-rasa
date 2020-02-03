@@ -6,6 +6,7 @@
 5. config.yml izkopirati iz ovog projekta
 5. Istrenirati model `rasa train nlu`
 6. Najbolje pushati sve na neki git repo
+7. Testirati sa `rasa shell nlu
 
 
 # Deploy
