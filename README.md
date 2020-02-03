@@ -1,4 +1,4 @@
-#Treniranje modela
+# Treniranje modela
 1. Instalacija rase lokalno -> https://rasa.com/docs/rasa/user-guide/installation/2. 
 2  kreirati folder za projekt i inicijalizirati rasu pomoću `rasa init` 
 3. U data/nlu.md dodati primjere
@@ -8,7 +8,7 @@
 6. Najbolje pushati sve na neki git repo
 
 
-#Deploy
+# Deploy
 1. kreirati docker volume pod imenom rasa `docker volume create rasa`
 2. pozicionirati se u docker volume (lokcaija: `docker volume inspect rasa` mountpoint property) 
 3. `git clone` prije kriranog git repozitorija
