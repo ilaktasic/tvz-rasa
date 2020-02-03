@@ -3,7 +3,7 @@ services:
   rasa:
     image: rasa/rasa:latest-full
     ports:
-      - 80:5005
+      - 8080:5005
     volumes:
       - rasa:/app
     command:

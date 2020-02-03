@@ -7,24 +7,16 @@
 ## intent:CONSULTATION_HOURS
 - kada su konzultacije kod [cesara](professor_last_name)
 - kada su konzultacije kod profesora [cesara](professor_last_name)
-- kad su konzultacije kod profesora [cesara](professor_last_name)
 - kada su konzultacije kod [krambergera](professor_last_name)
 - kada su konzultacije kod profesora [krambergera](professor_last_name)
-- kad su konzultacije kod profesora [krambergera](professor_last_name)
 - kada su konzultacije kod [slamića](professor_last_name)
 - kada su konzultacije kod profesora [slamića](professor_last_name)
-- kad su konzultacije kod profesora [slamića](professor_last_name)
-- kad [slamić](professor_last_name) ima konzultacije
 - kada su konzultacije kod [ivana](professor_first_name) [cesara](professor_last_name)
 - kada su konzultacije kod profesora [ivana](professor_first_name) [cesara](professor_last_name)
-- kad su konzultacije kod profesora [ivana](professor_first_name) [cesara](professor_last_name)
 - kada su konzultacije kod [tina](professor_first_name) [krambergera](professor_last_name)
 - kada su konzultacije kod profesora [tina](professor_first_name) [krambergera](professor_last_name)
-- kad su konzultacije kod profesora [tina](professor_first_name) [krambergera](professor_last_name)
 - kada su konzultacije kod [miroslava](professor_first_name) [slamića](professor_last_name)
 - kada su konzultacije kod profesora [miroslava](professor_first_name) [slamića](professor_last_name)
-- kad su konzultacije kod profesora [miroslava](professor_first_name) [slamića](professor_last_name)
-- kad [miroslav](professor_first_name) [slamić](professor_last_name) ima konzultacije
 
 ## intent:CONSULTATION_LOCATION
 - gdje su konzultacije kod [cesara](professor_last_name)
@@ -66,17 +58,9 @@
 
 ## intent:EXAM_TIME
 - kada je ispit iz [jave](subject)
-- kad je ispit iz [jave](subject)
-- kad je test iz [jave](subject)
-- kada je test iz [jave](subject)
-- kada je ispit iz [matematike](subject)
-- kad je ispit iz [matematike](subject)
-- kad je test iz [matematike](subject)
 - kada je test iz [matematike](subject)
 - kada je ispit iz [primjene računala](subject)
-- kad je ispit iz [primjene računala](subject)
-- kad je test iz [primjene računala](subject)
-- kada je test iz [primjene računala](subject)
+
 
 ## intent:LOCATION_LECTURE
 - gdje je predavanje iz [jave](subject)
